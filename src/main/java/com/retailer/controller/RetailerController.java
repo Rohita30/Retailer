@@ -24,6 +24,7 @@ import com.retailer.service.RetailerService;
 @RequestMapping("/retailer")
 public class RetailerController { 
 	
+	
 	@Autowired
 	private RetailerService retailerServ;
 	
